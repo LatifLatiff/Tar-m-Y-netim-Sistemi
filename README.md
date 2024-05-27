@@ -1,1 +1,1 @@
-# Tar-m-Y-netim-Sistemi
+# Tarim-Yonetim-Sistemi
